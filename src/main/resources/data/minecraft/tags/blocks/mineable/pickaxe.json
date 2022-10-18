@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "necromant:citrine_ore",
+    "necromant:citrine_block",
+    "necromant:raw_citrine_block",
+    "necromant:deepslate_citrine_ore",
+    "necromant:netherrack_citrine_ore",
+    "necromant:endstone_citrine_ore"
+  ]
+}

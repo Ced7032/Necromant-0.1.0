@@ -1,0 +1,46 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"0": "necromant:item/necromancer_staff",
+		"particle": "necromant:item/necromancer_staff"
+	},
+	"elements": [
+		{
+			"from": [7, -9, 8],
+			"to": [9, 14, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 14], "texture": "#0"},
+				"east": {"uv": [1, 0, 2, 14], "texture": "#0"},
+				"south": {"uv": [2, 0, 3, 14], "texture": "#0"},
+				"west": {"uv": [3, 0, 4, 14], "texture": "#0"},
+				"up": {"uv": [5, 1, 4, 0], "texture": "#0"},
+				"down": {"uv": [5, 1, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 16, 4],
+			"to": [12, 22, 12],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7, 16, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 14, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 5, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 5, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 5, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 8], "texture": "#0"}
+			}
+		}
+	]
+}

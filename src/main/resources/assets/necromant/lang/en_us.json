@@ -1,0 +1,18 @@
+{
+  "item.necromant.citrine": "Citrine",
+  "item.necromant.raw_citrine": "Raw Citrine",
+  "item.necromant.dowsing_rod": "Dowsing Rod",
+  "item.necromant.necromancer_staff": "Necromancer Staff",
+
+  "block.necromant.citrine_block": "Citrine Block",
+  "block.necromant.raw_citrine_block": "Raw Citrine Block",
+  "block.necromant.citrine_ore": "Citrine Ore",
+  "block.necromant.netherrack_citrine_ore": "Netherrack Citrine Ore",
+  "block.necromant.deepslate_citrine_ore": "Deepslate Citrine Ore",
+  "block.necromant.endstone_citrine_ore": "Endstone Citrine Ore",
+  "block.necromant.speedy_block": "Speedy Block",
+
+  "itemGroup.necromant_tab": "Necromant",
+
+  "item.necromant.dowsing_rod.no_valuables": "No valuables found"
+}
